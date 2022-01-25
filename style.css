@@ -57,13 +57,4 @@ button:nth-child(5)::after,form button:nth-child(5)::before{
 button:hover{
             filter: brightness(.8);
 }
-div {
-  background-color:white;
-  width:auto;
-  border: 3px solid black;
-  padding:20px;
-  margin:20px;
-  left:20px;
-  float: center;
-}
 
