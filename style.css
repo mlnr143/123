@@ -61,13 +61,17 @@ button:hover{
 h1{
  
             text-transform:uppercase;
-            text-align:center;
             
 }
-div {
-  background-color: lightgrey;
-  width: auto;
-  border: 2px solid black;
-  padding: 20px;
-  margin: 20px;
+h2{
+            text-color:#29f129;
 }
+div {
+  background-color:white;
+  width:auto;
+  border: 3px solid black;
+  padding:20px;
+  margin:20px;
+  left:20px;
+}
+
