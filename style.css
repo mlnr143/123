@@ -58,3 +58,9 @@ button:hover{
             filter: brightness(.8);
 }
 
+h1{
+ 
+            text-transform:uppercase;
+            text-align:center;
+            
+}
