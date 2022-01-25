@@ -51,7 +51,7 @@ button::before{
 
 button:hover{
 	         color:blue;
-            filter: brightness(5);
+            filter: brightness(.5);
 }
 
 h1{
